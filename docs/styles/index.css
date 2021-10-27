@@ -601,7 +601,7 @@
           left: -37px;
           background: url("../assets/img/cart.png") no-repeat left; }
       .header__bottom-cart-baloon {
-        max-height: 333px;
+        max-height: calc(92vh - 248px);
         overflow-y: scroll;
         position: absolute;
         display: none;
